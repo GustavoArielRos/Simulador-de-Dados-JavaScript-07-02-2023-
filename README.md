@@ -1,6 +1,7 @@
 # Simulador-de-Dados-JavaScript-07-02-2023-
 
-![image](https://user-images.githubusercontent.com/101509337/217379183-667f7ffa-a30f-4203-ae9d-5fa2466e1941.png)
+![image](https://user-images.githubusercontent.com/101509337/217381798-100c50c1-21ee-496c-bacd-c709516fd7a3.png)
+
 
 
 
