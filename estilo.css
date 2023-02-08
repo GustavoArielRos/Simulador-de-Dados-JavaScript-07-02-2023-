@@ -80,6 +80,7 @@ h1{
     background-color: #880b0b;
     /*pintando o que está escrito dentro do botão*/
     color: white;
+
 }
 
 #botao_d6:hover{
@@ -90,6 +91,7 @@ h1{
     background-color: #f5f5f5;
     /*pintando o que está escrito dentro do botão*/
     color: #880b0b;
+    cursor: pointer;
 }
 
 
@@ -112,6 +114,7 @@ h1{
     background-color: #ffffff;
     /*pintando o que está escrito dentro do botão*/
     color: #880b0b;
+    cursor: pointer;
 }
 
 
@@ -133,6 +136,7 @@ h1{
     background-color: #ffffff;
     /*pintando o que está escrito dentro do botão*/
     color: #880b0b;
+    cursor: pointer;
 }
 
 #botao_d12{
@@ -153,6 +157,7 @@ h1{
     background-color: #fff9f9;
     /*pintando o que está escrito dentro do botão*/
     color:#880b0b;
+    cursor: pointer;
 }
 
 
@@ -175,6 +180,7 @@ h1{
     background-color: #fafafa;
     /*pintando o que está escrito dentro do botão*/
     color:  #880b0b;
+    cursor: pointer;
 }
 
 #resultado{
@@ -194,3 +200,52 @@ h1{
     font-size: 80px;
 
 }
+
+/*Os títulos de cada dado*/
+
+h2{
+    text-shadow: 1px 1px 1px rgb(17, 17, 17);
+    color: #c51515;
+}
+#D4{
+    position: fixed;
+    top:120px;
+    left:140px;
+  
+}
+
+#D6{
+    position: fixed;
+    top:120px;
+    left:350px;
+  
+}
+
+#D8{
+    position: fixed;
+    top:120px;
+    left:550px;
+  
+}
+
+#D10{
+    position: fixed;
+    top:120px;
+    left:740px;
+  
+}
+
+#D12{
+    position: fixed;
+    top:120px;
+    left:940px;
+  
+}
+
+#D20{
+    position: fixed;
+    top:120px;
+    left:1140px;
+  
+}
+
