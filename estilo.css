@@ -1,0 +1,196 @@
+
+
+body{
+    background: linear-gradient(to right, #0c7edb, #094e86);
+}
+
+h1{ 
+    color:black;
+    text-shadow: 1px 1px 1px white;
+    position: fixed;
+    top:20px;
+    left:540px;
+}
+
+#dado-d4{
+    position: fixed;
+    top:200px;
+    left:100px;
+}
+
+#dado-d6{
+    position: fixed;
+    top:200px;
+    left:300px;
+}
+
+#dado-d8{
+    position: fixed;
+    top:200px;
+    left:500px;
+}
+
+#dado-d10{
+    position: fixed;
+    top:200px;
+    left:700px;
+}
+
+#dado-d12{
+    position: fixed;
+    top:200px;
+    left:900px;
+}
+
+#dado-d20{
+    position: fixed;
+    top:200px;
+    left:1100px;
+}
+
+
+
+#botao_d4{
+    font-size: x-large;
+    position: fixed;
+    top:340px;
+    left:120px;
+    background-color: #880b0b;
+    /*pintando o que está escrito dentro do botão*/
+    color: white;
+}
+
+/*quando o mouser passar em cima do botão, ele irá mudar de cor*/
+#botao_d4:hover{
+    font-size: x-large;
+    position: fixed;
+    top:340px;
+    left:120px;
+    background-color: #ebe8e8;
+    /*pintando o que está escrito dentro do botão*/
+    color: rgb(138, 8, 8);
+    cursor: pointer;
+}
+
+#botao_d6{
+    font-size: x-large;
+    position: fixed;
+    top:342px;
+    left:325px;
+    background-color: #880b0b;
+    /*pintando o que está escrito dentro do botão*/
+    color: white;
+}
+
+#botao_d6:hover{
+    font-size: x-large;
+    position: fixed;
+    top:342px;
+    left:325px;
+    background-color: #f5f5f5;
+    /*pintando o que está escrito dentro do botão*/
+    color: #880b0b;
+}
+
+
+
+#botao_d8{
+    font-size: x-large;
+    position: fixed;
+    top:343px;
+    left:525px;
+    background-color: #880b0b;
+    /*pintando o que está escrito dentro do botão*/
+    color: white;
+}
+
+#botao_d8:hover{
+    font-size: x-large;
+    position: fixed;
+    top:343px;
+    left:525px;
+    background-color: #ffffff;
+    /*pintando o que está escrito dentro do botão*/
+    color: #880b0b;
+}
+
+
+#botao_d10{
+    font-size: x-large;
+    position: fixed;
+    top:341px;
+    left:720px;
+    background-color: #880b0b;
+    /*pintando o que está escrito dentro do botão*/
+    color: white;
+}
+
+#botao_d10:hover{
+    font-size: x-large;
+    position: fixed;
+    top:341px;
+    left:720px;
+    background-color: #ffffff;
+    /*pintando o que está escrito dentro do botão*/
+    color: #880b0b;
+}
+
+#botao_d12{
+    font-size: x-large;
+    position: fixed;
+    top:342px;
+    left:918px;
+    background-color: #880b0b;
+    /*pintando o que está escrito dentro do botão*/
+    color: white;
+}
+
+#botao_d12:hover{
+    font-size: x-large;
+    position: fixed;
+    top:342px;
+    left:918px;
+    background-color: #fff9f9;
+    /*pintando o que está escrito dentro do botão*/
+    color:#880b0b;
+}
+
+
+
+#botao_d20{
+    font-size: x-large;
+    position: fixed;
+    top:342px;
+    left:1125px;
+    background-color: #880b0b;
+    /*pintando o que está escrito dentro do botão*/
+    color: white;
+}
+
+#botao_d20:hover{
+    font-size: x-large;
+    position: fixed;
+    top:342px;
+    left:1125px;
+    background-color: #fafafa;
+    /*pintando o que está escrito dentro do botão*/
+    color:  #880b0b;
+}
+
+#resultado{
+    position: fixed;
+    top:450px;
+    left:530px;
+    background-color:#b0b311;
+    height:100px;
+    width:150px;
+    text-shadow: 1px 1px 1px rgb(245, 245, 243);
+    border-color: rgb(229, 230, 227);
+    border-style: double;
+    border-width: 10px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left:115px;
+    font-size: 80px;
+
+}
